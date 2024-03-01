@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-//encapsulation,inheritance
+//encapsulation
 class Hotel {
     private List<Room> rooms;
     private List<Observer> observers;
